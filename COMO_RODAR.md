@@ -25,7 +25,6 @@ Só precisa fazer isso uma vez.
 ## 3. Rode o app
 
 ```bash
-cd ~/Desktop/facul/Python-OOP
 python3 -m streamlit run app.py
 ```
 

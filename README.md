@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="260" alt="Python"/>
+</div>
+
+<br>
+
 # 🚗 Monte seu Carro
 ### _Uma forma diferente de aprender Orientação a Objetos em Python_
 
@@ -12,6 +18,16 @@
 
 > **Escolha o chassi. Escolha o motor. Escolha as rodas.**
 > Quando você terminar de montar seu carro, vai perceber que acabou de escrever uma classe Python inteira — sem nem notar.
+
+<br>
+
+---
+
+## 🎬 Demo
+
+<div align="center">
+  <video src="demo.mov" controls width="100%"></video>
+</div>
 
 <br>
 
@@ -117,7 +133,6 @@ python3 -m pip install streamlit
 
 **2. Rode o app:**
 ```bash
-cd ~/Desktop/facul/Python-OOP
 python3 -m streamlit run app.py
 ```
 
